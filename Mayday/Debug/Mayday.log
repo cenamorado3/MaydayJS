@@ -1,0 +1,7 @@
+﻿  WMKeys.c
+c:\users\chris\source\repos\mayday\mayday\wmkeys.c(7): warning C4013: 'convertStrintToKey' undefined; assuming extern returning int
+c:\users\chris\source\repos\mayday\mayday\wmkeys.c(18): warning C4473: 'printf' : not enough arguments passed for format string
+  c:\users\chris\source\repos\mayday\mayday\wmkeys.c(18): note: placeholders and their parameters expect 1 variadic arguments, but 0 were provided
+  c:\users\chris\source\repos\mayday\mayday\wmkeys.c(18): note: the missing variadic argument 1 is required by format string '%c'
+c:\users\chris\source\repos\mayday\mayday\wmkeys.c(21): warning C4715: 'convertStrintToKey': not all control paths return a value
+  Mayday.vcxproj -> C:\Users\Chris\source\repos\Mayday\Debug\Mayday.exe
